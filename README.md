@@ -1,4 +1,4 @@
-Scripts and data for Cisneros, Mattenberger, et al., (2025). "Paralog interference preserves genetic redundancy".
+Scripts and data for Cisneros, Mattenberger, et al., (2025). "Paralog interference contributes to the preservation of genetic redundancy".
 
 Folders contain:
 - Data:
